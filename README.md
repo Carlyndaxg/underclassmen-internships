@@ -141,9 +141,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | [Impact Labs Summit](https://www.impactlabs.io/summit)                                                                                                                                     | ?                | All student         | Professional networking event for students & professionals in NYC                                                                                                  |
 | [Paragon One Career Bootcamp]([https://www.paragonone.com/externships/career-bootcamp])                                                                                                    | ⛔ Closed        | All Students        |
 | [Optiver Women in Tech & Trading](https://optiver.com/recruitment-events/insight-days-women-in-tech-trading/)                                                                              | ⛔ Closed        | Freshman, Sophomore | Register to know when applications open for 2025 here: https://optiver.com/working-at-optiver/career-opportunities/7619526002/                                   |
-| [Jane Street WiSE](https://www.janestreet.com/join-jane-street/programs-and-events/wise/)
-                                                 | ✅ Open          | Freshman            | 
-                                                                                                                   |
+| [Jane Street WiSE](https://www.janestreet.com/join-jane-street/programs-and-events/wise/)                                                                                                  | ✅ Open          | Freshman            |
 <br/>
 
 ## Winternship
